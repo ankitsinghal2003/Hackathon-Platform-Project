@@ -1,0 +1,64 @@
+# ========================
+# Node Modules
+# ========================
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# ========================
+# Environment Variables
+# ========================
+.env
+backend/.env
+frontend/.env
+
+# ========================
+# Build Folders
+# ========================
+dist/
+build/
+frontend/dist/
+frontend/build/
+
+# ========================
+# Logs
+# ========================
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ========================
+# OS Files
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# IDE / Editor
+# ========================
+.vscode/
+.idea/
+
+# ========================
+# Dependency directories
+# ========================
+.pnp/
+.pnp.js
+
+# ========================
+# Coverage folder
+# ========================
+coverage/
+
+# ========================
+# MongoDB local database files (if any)
+# ========================
+*.db
+
+# ========================
+# Optional: Lock files (if needed ignore)
+# ========================
+# package-lock.json
+# yarn.lock
